@@ -1,0 +1,10 @@
+{
+    "name": "NFT",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "none"
+    }
+}
